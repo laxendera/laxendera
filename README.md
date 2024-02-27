@@ -21,7 +21,7 @@
 I am a Backend Developer from Cebu, Philippines
 - 🔭 I'm working as a Backend Developer Intern
 - 🌱 Exploring Backend and Crypto Trading 📈
-- ⚡ In my free time, I read manhwas and watch
+- ⚡ In my free time, I read manhwas often time watch tutorials and listen to music
 
 
 
